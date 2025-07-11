@@ -19,7 +19,7 @@ labtainer -r scn3
 
 1. Télécharger l'archive et l'extraire.
 
-2. On obtient une arborescence classique d’un labo Labtainer, à savoir la présence des dossiers suivants : config, dockerfiles, docs, instr_config, scn3.
+2. On obtient une arborescence classique d’un labo Labtainer, à savoir la présence des dossiers suivants : config, docs, instr_config.
 
 3. Utiliser le PDF labdesigner.pdf pour toute information sur la création d’un laboratoire Labtainer.
 
